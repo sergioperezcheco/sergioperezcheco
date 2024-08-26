@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Those who suit their actions to the time are wise
 
 ## Websites
-[Home page](https://home.checo.cc)
-
-[Blog](https://blog.checo.cc)
-
-[Docs](https://docs.checo.cc)
-
-[Random images](https://random.fddm.cc)
-
+[Home page](https://home.checo.cc) </br>
+[Blog](https://blog.checo.cc) </br>
+[Docs](https://docs.checo.cc) </br>
+[Random images](https://random.fddm.cc) </br>
 [Images hosting](https://img.checo.cc)
 
 

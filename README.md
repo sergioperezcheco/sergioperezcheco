@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👀 I’m interested in Operations, Devops, Cybersecurity, Frontend and IDC
+- 👀 I’m interested in SRE, Devops, Cybersecurity, Frontend and IDC
 - 🌱 I’m currently learning to become a product manager
 - 🚀 I'm a crazy fan of FDDM
 - 🚄 I'm a lover of transpotation

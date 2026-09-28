@@ -1,36 +1,29 @@
 # 👋 Hi, I'm Checo
 
-Security research, open-source fixes, and tools I wish already existed. I work across **cybersecurity, AI, and cloud computing**. Away from the keyboard, you'll find me listening to **房东的猫** or following trains and aviation.
+I research security issues, contribute fixes to open-source projects, and build tools for the systems I use. My work sits at the intersection of **cybersecurity, AI, and cloud computing**; outside of it, I love **房东的猫**, trains, and aviation.
+
+[Read my security research](https://blog.checo.cc/en/posts/Security/1) · [Explore merged PRs](https://github.com/pulls?q=is%3Apr+author%3Asergioperezcheco+is%3Amerged) · [Visit my blog](https://blog.checo.cc)
 
 ---
 
-### What I'm into
-
-**Focus**<br>
-![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-C81E3A?style=for-the-badge&logo=owasp&logoColor=white) ![AI and ML](https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white) ![Cloud computing](https://img.shields.io/badge/CLOUD%20COMPUTING-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white) ![Open source](https://img.shields.io/badge/OPEN%20SOURCE-16856B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-
-**Toolbox**<br>
-![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![MLX](https://img.shields.io/badge/MLX-343B54?style=for-the-badge&logo=apple&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Windows](./assets/windows-badge.svg)
-
-**Beyond code**<br>
-![房东的猫](https://img.shields.io/badge/%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB-D65A9A?style=for-the-badge&logo=musicbrainz&logoColor=white) ![Trains](https://img.shields.io/badge/TRAINS-D62E3C?style=for-the-badge&logo=deutschebahn&logoColor=white) ![Aviation](https://img.shields.io/badge/AVIATION-1689C7?style=for-the-badge&logo=airbus&logoColor=white)
-
 ### 🔐 Security research
 
-**[CVE-2026-78847](https://www.cve.org/CVERecord?id=CVE-2026-78847)** · JavaScript front-matter code execution in `gray-matter`. I independently reproduced it, verified mitigations, and requested a CVE for the library. An [earlier upstream PR](https://github.com/jonschlinkert/gray-matter/pull/182) had documented the issue; finder credit on the published record is pending. **[Read the investigation →](https://blog.checo.cc/en/posts/Security/1)**
+**[CVE-2026-78847](https://www.cve.org/CVERecord?id=CVE-2026-78847)** · Code execution in `gray-matter`'s JavaScript front matter. I independently reproduced the issue, verified mitigations, and requested a CVE for the library. An [earlier upstream PR](https://github.com/jonschlinkert/gray-matter/pull/182) had already documented it; finder credit on the published record is pending. [Investigation →](https://blog.checo.cc/en/posts/Security/1)
 
-### 🤝 Merged upstream
+### 🤝 Open-source contributions
 
-Selected fixes **merged upstream**:
+Selected fixes **merged upstream**, with the PRs behind them:
 
-- [Keycloak](https://github.com/keycloak/keycloak/pull/51217) · Base64URL padding crash
-- [Dify](https://github.com/langgenius/dify/pull/38280) · SQLAlchemy pagination
-- [LocalSend](https://github.com/localsend/localsend/pull/3212) · WebRTC failure handling
-- [browser-use](https://github.com/browser-use/browser-use/pull/5264) · remote download callbacks
-- [Composio](https://github.com/ComposioHQ/composio/pull/3890) · trigger shutdown deadlock
-- [yuque-dl](https://github.com/gxr404/yuque-dl/pull/102) · download all books
+| | |
+| :--- | :--- |
+| [Keycloak](https://github.com/keycloak/keycloak/pull/51217) | Fixed a Base64URL padding crash. |
+| [Dify](https://github.com/langgenius/dify/pull/38280) | Replaced `db.paginate` with SQLAlchemy pagination. |
+| [LocalSend](https://github.com/localsend/localsend/pull/3212) | Corrected WebRTC failure handling. |
+| [browser-use](https://github.com/browser-use/browser-use/pull/5264) | Restored remote-download callbacks. |
+| [Composio](https://github.com/ComposioHQ/composio/pull/3890) | Fixed a trigger shutdown deadlock. |
+| [yuque-dl](https://github.com/gxr404/yuque-dl/pull/102) | Added a download-all-books command. |
 
-[See all merged PRs →](https://github.com/pulls?q=is%3Apr+author%3Asergioperezcheco+is%3Amerged)
+[All merged PRs →](https://github.com/pulls?q=is%3Apr+author%3Asergioperezcheco+is%3Amerged)
 
 ### 🛠️ Selected projects
 
@@ -38,6 +31,17 @@ Selected fixes **merged upstream**:
 - **[DeDeBayer](https://github.com/sergioperezcheco/DeDeBayer)** · interactive demosaicing visualizer · [Live demo →](https://dedebayer.pages.dev)
 - **[llm-from-scratch](https://github.com/sergioperezcheco/llm-from-scratch)** · a tiny GPT trained with MLX on Apple Silicon
 - **[PR Dashboard](https://github.com/sergioperezcheco/pr-dashboard)** · tracking open-source contributions · [Live dashboard →](https://home.checo.cc/pr-dashboard/)
+
+### What I'm into
+
+**Work**<br>
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-C81E3A?style=for-the-badge&logo=owasp&logoColor=white) ![AI and ML](https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white) ![Cloud computing](https://img.shields.io/badge/CLOUD%20COMPUTING-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white) ![Open source](https://img.shields.io/badge/OPEN%20SOURCE-16856B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+**Tools**<br>
+![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![MLX](https://img.shields.io/badge/MLX-343B54?style=for-the-badge&logo=apple&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Windows](./assets/windows-badge.svg)
+
+**Off the clock**<br>
+![房东的猫](https://img.shields.io/badge/%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB-D65A9A?style=for-the-badge&logo=musicbrainz&logoColor=white) ![Trains](https://img.shields.io/badge/TRAINS-D62E3C?style=for-the-badge&logo=deutschebahn&logoColor=white) ![Aviation](https://img.shields.io/badge/AVIATION-1689C7?style=for-the-badge&logo=airbus&logoColor=white)
 
 ### 📊 GitHub activity
 

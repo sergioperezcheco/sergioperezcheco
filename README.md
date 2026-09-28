@@ -1,6 +1,17 @@
 # 👋 Hi, I'm Checo
 
-I work on security research, open-source fixes, and the tools I wish already existed.
+I work across **cybersecurity, AI, and cloud computing**—researching vulnerabilities, contributing open-source fixes, and building tools I wish existed. Away from the keyboard: **房东的猫** and transportation, especially trains and aviation.
+
+### What I'm into
+
+**Building & researching**<br>
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-364152?style=for-the-badge&logo=owasp&logoColor=white) ![AI and ML](https://img.shields.io/badge/AI%20%26%20ML-566779?style=for-the-badge&logo=huggingface&logoColor=white) ![Cloud computing](https://img.shields.io/badge/CLOUD%20COMPUTING-64748B?style=for-the-badge&logo=kubernetes&logoColor=white) ![Open source](https://img.shields.io/badge/OPEN%20SOURCE-545D68?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+**Toolbox**<br>
+![Python](https://img.shields.io/badge/PYTHON-586F8E?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-526A94?style=for-the-badge&logo=typescript&logoColor=white) ![Kubernetes](https://img.shields.io/badge/KUBERNETES-5C74A6?style=for-the-badge&logo=kubernetes&logoColor=white) ![MLX](https://img.shields.io/badge/MLX-565E70?style=for-the-badge&logo=apple&logoColor=white)
+
+**Beyond code**<br>
+![房东的猫](https://img.shields.io/badge/%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB-7D697A?style=for-the-badge&logo=musicbrainz&logoColor=white) ![Trains](https://img.shields.io/badge/TRAINS-6D7883?style=for-the-badge&logo=deutschebahn&logoColor=white) ![Aviation](https://img.shields.io/badge/AVIATION-66798D?style=for-the-badge&logo=airbus&logoColor=white)
 
 ### 🔐 Security research
 

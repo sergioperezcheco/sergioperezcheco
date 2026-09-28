@@ -14,7 +14,7 @@ I research security issues, contribute fixes to open-source projects, and build 
 
 Selected fixes **merged upstream**, with the PRs behind them:
 
-| | |
+| Project | Merged fix |
 | :--- | :--- |
 | [Keycloak](https://github.com/keycloak/keycloak/pull/51217) | Fixed a Base64URL padding crash. |
 | [Dify](https://github.com/langgenius/dify/pull/38280) | Replaced `db.paginate` with SQLAlchemy pagination. |

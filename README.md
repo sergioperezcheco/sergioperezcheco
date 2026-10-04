@@ -45,9 +45,9 @@ Selected fixes **merged upstream**, with the PRs behind them:
 
 ### 📊 GitHub activity
 
-![Checo's GitHub stats, including rank](https://github-stats-extended.vercel.app/api?username=sergioperezcheco&show_icons=true&hide_title=true&card_width=495&theme=default)
+![Checo's GitHub stats, including rank](https://github-stats-extended.vercel.app/api?username=sergioperezcheco&show_icons=true&hide_title=true&card_width=495&bg_color=ffffff&text_color=374151&icon_color=589c83&ring_color=589c83&border_color=e3e9e6&border_radius=12&disable_animations=true)
 
-![Checo's GitHub contribution streak](https://streak-stats.demolab.com?user=sergioperezcheco&theme=default)
+![Checo's GitHub contribution streak](https://streak-stats.demolab.com?user=sergioperezcheco&background=FFFFFF&border=E3E9E6&stroke=E3E9E6&ring=589C83&fire=589C83&currStreakLabel=477E6B&sideLabels=374151&currStreakNum=25352F&sideNums=25352F&dates=6B7280&border_radius=12)
 
 ---
 
